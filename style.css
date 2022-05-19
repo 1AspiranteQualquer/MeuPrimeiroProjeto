@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: rgb(234, 230, 142);
+}
+
+#HTML, #CSS{
+    border-radius: 100%;
+    width: 100px;
+}
+
+ul{
+    justify-content: center;
+}
